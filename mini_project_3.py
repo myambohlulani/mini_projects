@@ -14,7 +14,7 @@ class QuickSort(object):
         i = low
 
         for j in range(low, high):
-            if pivot > array[j]:
+            if pivot >= array[j]:
                 array[i], array[j] = array[j], array[i]
                 i += 1
         array[i], array[high] = array[high], array[i]
