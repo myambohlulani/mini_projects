@@ -54,5 +54,8 @@ public class UserInput {
         userInput.close();
     }
 
-    // access-modifier non-access-modifier return type
+    // syntax of methods
+    // access-modifier non-access-modifier return type nameOfTheMethod(parameters) {
+    // code-block
+    // }
 }
