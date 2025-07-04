@@ -1,4 +1,4 @@
-package java;
+// package Java;
 
 import java.util.Scanner; // this is a Scanner class
 
@@ -52,6 +52,11 @@ public class UserInput {
         System.out.println(sequence);
 
         userInput.close();
+
+        Functions myFunctions = new Functions();
+        myFunctions.myFuntion();
+        int myAddition = Functions.addition();
+        System.out.println(myAddition);
     }
 
     // syntax of methods
