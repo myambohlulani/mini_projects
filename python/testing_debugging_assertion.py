@@ -219,7 +219,7 @@ examples of run-time errors:
 
     with LOGIC ERRORS:
     => Think before writing the new code.
-    => Draw pictures, take a breaj
+    => Draw pictures, take a break
     => Explain the code to someone else or rubber ducky.
     As you explain to someone then you will find the error within your code.
 
